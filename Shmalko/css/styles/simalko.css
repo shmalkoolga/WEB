@@ -1,0 +1,30 @@
+.main {
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vip-1gl.ru%2Fvipberrrt%2F988281616e53cc7f2d0e4987d8e773ab4a4c.jpg&f=1&nofb=1&ipt=992fa52ed61c48b5330a49be2114cf7c111a76996b8dd91e3827360f41ef0f08&ipo=images);
+	color:#008000;
+	font-size:30px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wrapper{
+    background-color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700px;
+    font-size: 21px;
+}
+
+.image{
+    height: 300px;
+    width: 400px;
+    display: block;
+    margin: auto;
+    }
+
+    .about_me{
+        display: inherit;
+        margin: auto;
+        
+
+    }
+
+
